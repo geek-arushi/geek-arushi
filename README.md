@@ -5,7 +5,7 @@
 </div>
 
 ## About me :mortar_board:
-I am currently a student at Netaji Subhas Institute Of Technology, Bihta. My deep passion for technology 💻 has shaped a strong technological mindset and fueled my curiosity to continually learn more. I firmly believe that **knowledge is limitless**. 🧠
+I am currently a student at Netaji Subhas Institute Of Technology, And also Working with Corcus Studio LLp as Full Stack Developer. My deep passion for technology 💻 has shaped a strong technological mindset and fueled my curiosity to continually learn more. I firmly believe that **knowledge is limitless**. 🧠
 ## What I know :computer:
 - **Programming Languages (Data Structures & Algorithms)**
 <center>
