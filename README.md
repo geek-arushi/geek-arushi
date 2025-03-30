@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="[intro.mp4](https://github.com/geek-arushi/geek-arushi/blob/main/intro.mp4)">
+	<img src="https://github.com/geek-arushi/geek-arushi/blob/main/Arushi%20Singh.gif">
 </div>
 
 ## About me :mortar_board:
